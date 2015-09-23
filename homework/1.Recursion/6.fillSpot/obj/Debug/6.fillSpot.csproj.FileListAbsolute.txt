@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\6.fillSpot\bin\Debug\6.fillSpot.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\6.fillSpot\bin\Debug\6.fillSpot.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\6.fillSpot\bin\Debug\6.fillSpot.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\6.fillSpot\obj\Debug\6.fillSpot.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\6.fillSpot\obj\Debug\6.fillSpot.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\6.fillSpot\obj\Debug\6.fillSpot.pdb

@@ -1,0 +1,9 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\2.NestedRecLoops\bin\Debug\2.NestedRecLoops.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\2.NestedRecLoops\bin\Debug\2.NestedRecLoops.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\2.NestedRecLoops\bin\Debug\2.NestedRecLoops.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\2.NestedRecLoops\obj\Debug\2.NestedRecLoops.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\2.NestedRecLoops\obj\Debug\2.NestedRecLoops.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\2.NestedRecLoops\obj\Debug\2.NestedRecLoops.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\2.NestedRecLoops\bin\Debug\2.NestedRecLoops.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\2.NestedRecLoops\obj\Debug\2.NestedRecLoops.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\2.NestedRecLoops\obj\Debug\2.NestedRecLoops.pdb

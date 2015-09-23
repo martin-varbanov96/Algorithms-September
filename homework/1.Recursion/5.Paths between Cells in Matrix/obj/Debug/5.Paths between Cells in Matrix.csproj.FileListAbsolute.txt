@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\5.Paths between Cells in Matrix\bin\Debug\5.Paths between Cells in Matrix.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\5.Paths between Cells in Matrix\bin\Debug\5.Paths between Cells in Matrix.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\5.Paths between Cells in Matrix\bin\Debug\5.Paths between Cells in Matrix.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\5.Paths between Cells in Matrix\bin\Debug\5.Paths between Cells in Matrix.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\5.Paths between Cells in Matrix\obj\Debug\5.Paths between Cells in Matrix.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\5.Paths between Cells in Matrix\obj\Debug\5.Paths between Cells in Matrix.pdb

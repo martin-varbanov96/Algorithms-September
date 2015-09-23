@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\temp\bin\Debug\temp.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\temp\bin\Debug\temp.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\temp\bin\Debug\temp.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\temp\obj\Debug\temp.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\temp\obj\Debug\temp.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\temp\obj\Debug\temp.pdb

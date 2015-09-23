@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Hanoi", "1.Recursion\1.Hanoi.csproj", "{6ED5EA26-33E4-4310-8196-F784207DEBD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.NestedRecLoops", "2.NestedRecLoops\2.NestedRecLoops.csproj", "{E07DC8FA-42E5-4BEB-8539-9B6780620D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Combinations without Repetition", "3. Combinations with Repetition\4.Combinations without Repetition.csproj", "{58326DF5-494E-43D3-9D78-1C653068DBB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Combinations with Repetition", "3.Combinations with Repetition\3.Combinations with Repetition.csproj", "{885CF3D9-5608-4FCB-A8E3-B80150B76BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Paths between Cells in Matrix", "5.Paths between Cells in Matrix\5.Paths between Cells in Matrix.csproj", "{4F17D1CA-E03F-43A2-A0A7-8DF01AD70051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temp", "temp\temp.csproj", "{E51AF361-00C0-4B37-9972-29AA16752F37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.fillSpot", "6.fillSpot\6.fillSpot.csproj", "{41C00ED9-8ED4-4ED7-82FF-979F3052F2E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED5EA26-33E4-4310-8196-F784207DEBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED5EA26-33E4-4310-8196-F784207DEBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED5EA26-33E4-4310-8196-F784207DEBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED5EA26-33E4-4310-8196-F784207DEBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E07DC8FA-42E5-4BEB-8539-9B6780620D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07DC8FA-42E5-4BEB-8539-9B6780620D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07DC8FA-42E5-4BEB-8539-9B6780620D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07DC8FA-42E5-4BEB-8539-9B6780620D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58326DF5-494E-43D3-9D78-1C653068DBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58326DF5-494E-43D3-9D78-1C653068DBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58326DF5-494E-43D3-9D78-1C653068DBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58326DF5-494E-43D3-9D78-1C653068DBB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885CF3D9-5608-4FCB-A8E3-B80150B76BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885CF3D9-5608-4FCB-A8E3-B80150B76BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885CF3D9-5608-4FCB-A8E3-B80150B76BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885CF3D9-5608-4FCB-A8E3-B80150B76BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F17D1CA-E03F-43A2-A0A7-8DF01AD70051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F17D1CA-E03F-43A2-A0A7-8DF01AD70051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F17D1CA-E03F-43A2-A0A7-8DF01AD70051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F17D1CA-E03F-43A2-A0A7-8DF01AD70051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51AF361-00C0-4B37-9972-29AA16752F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51AF361-00C0-4B37-9972-29AA16752F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51AF361-00C0-4B37-9972-29AA16752F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51AF361-00C0-4B37-9972-29AA16752F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C00ED9-8ED4-4ED7-82FF-979F3052F2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C00ED9-8ED4-4ED7-82FF-979F3052F2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C00ED9-8ED4-4ED7-82FF-979F3052F2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C00ED9-8ED4-4ED7-82FF-979F3052F2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

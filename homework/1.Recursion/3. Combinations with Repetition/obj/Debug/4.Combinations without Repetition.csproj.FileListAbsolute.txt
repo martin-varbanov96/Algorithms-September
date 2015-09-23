@@ -1,0 +1,3 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\3. Combinations with Repetition\bin\Debug\_3.Combinations_with_Repetition.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\3. Combinations with Repetition\obj\Debug\_3.Combinations_with_Repetition.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\3. Combinations with Repetition\obj\Debug\_3.Combinations_with_Repetition.pdb
