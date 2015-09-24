@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\variations\bin\Debug\variations.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\variations\bin\Debug\variations.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\variations\bin\Debug\variations.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\variations\obj\Debug\variations.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\variations\obj\Debug\variations.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\variations\obj\Debug\variations.pdb

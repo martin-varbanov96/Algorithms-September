@@ -1,0 +1,5 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\combinations\bin\Debug\combinations.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\combinations\bin\Debug\combinations.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\combinations\bin\Debug\combinations.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\combinations\obj\Debug\combinations.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\combinations\obj\Debug\combinations.pdb

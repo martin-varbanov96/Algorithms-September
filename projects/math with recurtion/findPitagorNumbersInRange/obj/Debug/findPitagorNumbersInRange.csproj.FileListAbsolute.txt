@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\findPitagorNumbersInRange\bin\Debug\findPitagorNumbersInRange.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\findPitagorNumbersInRange\bin\Debug\findPitagorNumbersInRange.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\findPitagorNumbersInRange\bin\Debug\findPitagorNumbersInRange.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\findPitagorNumbersInRange\obj\Debug\findPitagorNumbersInRange.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\findPitagorNumbersInRange\obj\Debug\findPitagorNumbersInRange.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\findPitagorNumbersInRange\obj\Debug\findPitagorNumbersInRange.csprojResolveAssemblyReference.cache

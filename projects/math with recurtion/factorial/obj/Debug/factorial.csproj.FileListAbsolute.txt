@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\factorial\bin\Debug\factorial.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\factorial\bin\Debug\factorial.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\factorial\bin\Debug\factorial.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\factorial\obj\Debug\factorial.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\factorial\obj\Debug\factorial.pdb

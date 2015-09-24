@@ -1,0 +1,5 @@
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\matrix\bin\Debug\matrix.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\matrix\bin\Debug\matrix.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\matrix\bin\Debug\matrix.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\matrix\obj\Debug\matrix.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\matrix\obj\Debug\matrix.pdb
