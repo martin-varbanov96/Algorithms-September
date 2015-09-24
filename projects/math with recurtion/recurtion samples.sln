@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "combinations", "combination
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "findPitagorNumbersInRange", "findPitagorNumbersInRange\findPitagorNumbersInRange.csproj", "{5F0A4FFD-8008-4018-8129-DA700E156DFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fi", "fi\fi.csproj", "{95061E20-889F-45D8-B75A-F7511C0FCEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fiFastWihoutRecursion", "fiFastWihoutRecursion\fiFastWihoutRecursion.csproj", "{A9DC4121-6D1D-48E8-A17D-94CB28E34CDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{5F0A4FFD-8008-4018-8129-DA700E156DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F0A4FFD-8008-4018-8129-DA700E156DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F0A4FFD-8008-4018-8129-DA700E156DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95061E20-889F-45D8-B75A-F7511C0FCEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95061E20-889F-45D8-B75A-F7511C0FCEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95061E20-889F-45D8-B75A-F7511C0FCEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95061E20-889F-45D8-B75A-F7511C0FCEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9DC4121-6D1D-48E8-A17D-94CB28E34CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DC4121-6D1D-48E8-A17D-94CB28E34CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DC4121-6D1D-48E8-A17D-94CB28E34CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DC4121-6D1D-48E8-A17D-94CB28E34CDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

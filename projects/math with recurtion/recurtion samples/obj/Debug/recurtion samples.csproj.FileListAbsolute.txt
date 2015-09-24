@@ -3,3 +3,6 @@ C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtio
 C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\recurtion samples\bin\Debug\recurtion samples.pdb
 C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\recurtion samples\obj\Debug\recurtion samples.exe
 C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\recurtion tests\recurtion samples\recurtion samples\obj\Debug\recurtion samples.pdb
+C:\Users\hp\Documents\GitHub\Algorithms-September\projects\math with recurtion\recurtion samples\bin\Debug\recurtion samples.exe.config
+C:\Users\hp\Documents\GitHub\Algorithms-September\projects\math with recurtion\recurtion samples\obj\Debug\recurtion samples.exe
+C:\Users\hp\Documents\GitHub\Algorithms-September\projects\math with recurtion\recurtion samples\obj\Debug\recurtion samples.pdb

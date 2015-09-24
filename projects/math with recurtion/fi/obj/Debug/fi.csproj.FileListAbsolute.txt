@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\GitHub\Algorithms-September\projects\math with recurtion\fi\bin\Debug\fi.exe.config
+C:\Users\hp\Documents\GitHub\Algorithms-September\projects\math with recurtion\fi\bin\Debug\fi.exe
+C:\Users\hp\Documents\GitHub\Algorithms-September\projects\math with recurtion\fi\bin\Debug\fi.pdb
+C:\Users\hp\Documents\GitHub\Algorithms-September\projects\math with recurtion\fi\obj\Debug\fi.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\GitHub\Algorithms-September\projects\math with recurtion\fi\obj\Debug\fi.exe
+C:\Users\hp\Documents\GitHub\Algorithms-September\projects\math with recurtion\fi\obj\Debug\fi.pdb
