@@ -4,3 +4,9 @@ C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\1.Recursion\
 C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\1.Recursion\obj\Debug\1.Hanoi.csprojResolveAssemblyReference.cache
 C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\1.Recursion\obj\Debug\1.Recursion.exe
 C:\Users\hp\Documents\Visual Studio 2013\Projects\CPlus\1.Recursion\1.Recursion\obj\Debug\1.Recursion.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\1.Recursion\bin\Debug\1.Recursion.exe.config
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\1.Recursion\bin\Debug\1.Recursion.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\1.Recursion\bin\Debug\1.Recursion.pdb
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\1.Recursion\obj\Debug\1.Hanoi.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\1.Recursion\obj\Debug\1.Recursion.exe
+C:\Users\hp\Documents\Visual Studio 2013\Projects\C# algorithms softuni\1.Recursion\1.Recursion\obj\Debug\1.Recursion.pdb

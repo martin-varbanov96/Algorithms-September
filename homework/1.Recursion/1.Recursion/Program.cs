@@ -17,17 +17,32 @@ class Program
 
     private static void MoveDisks(int bottomDisk, Stack<int> source, Stack<int> destination, Stack<int> spare)
     {
-        if(bottomDisk==1)  
+        if(bottomDisk < 1)
+        {
+            return;
+        }
+        else if(bottomDisk==1)  
         {
             destination.Push(source.Pop());
+            printSolution(source, spare, destination);
+            return;
+
         }
         else
         {
             MoveDisks(bottomDisk-1, source, spare, destination);         
             destination.Push(source.Pop());
-            MoveDisks(bottomDisk, spare, destination, source);
+            printSolution(source, spare, destination);
+            MoveDisks(bottomDisk - 1, spare, destination, source);
         }
     }
-    
+
+    private static void printSolution(Stack<int> source, Stack<int> spare, Stack<int> destination)
+    {
+        Console.WriteLine("Source: {0}", string.Join(", ", source.Reverse()));
+        Console.WriteLine("Destination: {0}", string.Join(", ", destination.Reverse()));
+        Console.WriteLine("Spare: {0}", string.Join(", ", spare.Reverse()));
+        Console.WriteLine();
+    }
 }
 

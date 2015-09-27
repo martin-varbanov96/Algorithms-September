@@ -9,41 +9,39 @@ class Program
     static int count = 0;
     static char[,] lab =
     { 
-        //{' ', ' ', ' ', '*', ' ', ' ', ' ', '*', ' '},
-        //{' ', ' ', ' ', '*', ' ', ' ', ' ', '*', ' '},
-        //{' ', ' ', ' ', '*', ' ', ' ', ' ', '*', ' '},
-        //{' ', ' ', ' ',' ' , '*', ' ', '*', ' ', ' '}
-
         {'*', '1', ' ', '*', '2', ' ', ' ', '*', '3', ' '},
         {'*', ' ', ' ', '*', ' ', ' ', ' ', '*', ' ', ' '},
         {'*', ' ', ' ', '*', '*', '*', '*', '*', ' ', ' '},
         {'*', ' ', ' ', '*', '3', ' ', ' ', '*', ' ', ' '},
         {'*', ' ', ' ', '*', ' ', ' ', ' ', '*', ' ', ' '}
-
     };
     static void Main(string[] args)
     {
-        for (int i = 0; i < lab.GetLength(0); i++)
-        {
-            for (int j = 0; j < lab.GetLength(1);j++ )
-            {
-                if ((lab[i, j] != ' ') && (lab[i, j] != '*') &&(lab[i, j]!='X'))
-                {
-                    lab[i, j] = ' ';
-                    findField(i, j);
-                    Console.WriteLine(count);
-                    count = 0;
-                }
-            }
+        loopRec(0,0);
+    }
+    private static void loopRec(int row, int col)
+    {
+        if (row == lab.GetLength(0))
+        {  
         }
-        for (int i = 0; i < lab.GetLength(0); i++)
+        else if (!isInRange(row, col))
         {
-            for (int j = 0; j < lab.GetLength(1); j++)
-            {
-                Console.Write(lab[i,j]);
-            }
-            Console.WriteLine();
+            loopRec(row + 1, 0);
         }
+        else
+        {
+            if ((lab[row, col] != ' ') && (lab[row, col] != 'X') && (lab[row, col] != '*'))
+            {
+                Console.Write("Area #{0} at ({1},{2}) size:",lab[row, col], row, col);
+                lab[row, col]=' ';
+                findField(row, col);
+                Console.WriteLine(count);
+                count=0;
+            }
+            loopRec(row, col + 1);
+        }
+
+
     }
     static void findField(int row, int col)
     {

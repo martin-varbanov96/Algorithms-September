@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Combinations with Repetit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Paths between Cells in Matrix", "5.Paths between Cells in Matrix\5.Paths between Cells in Matrix.csproj", "{4F17D1CA-E03F-43A2-A0A7-8DF01AD70051}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "temp", "temp\temp.csproj", "{E51AF361-00C0-4B37-9972-29AA16752F37}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.fillSpot", "6.fillSpot\6.fillSpot.csproj", "{41C00ED9-8ED4-4ED7-82FF-979F3052F2E3}"
 EndProject
 Global
@@ -43,10 +41,6 @@ Global
 		{4F17D1CA-E03F-43A2-A0A7-8DF01AD70051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F17D1CA-E03F-43A2-A0A7-8DF01AD70051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F17D1CA-E03F-43A2-A0A7-8DF01AD70051}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E51AF361-00C0-4B37-9972-29AA16752F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E51AF361-00C0-4B37-9972-29AA16752F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E51AF361-00C0-4B37-9972-29AA16752F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E51AF361-00C0-4B37-9972-29AA16752F37}.Release|Any CPU.Build.0 = Release|Any CPU
 		{41C00ED9-8ED4-4ED7-82FF-979F3052F2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{41C00ED9-8ED4-4ED7-82FF-979F3052F2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41C00ED9-8ED4-4ED7-82FF-979F3052F2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
