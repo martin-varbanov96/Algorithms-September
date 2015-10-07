@@ -6,23 +6,30 @@ using System.Threading.Tasks;
 
 class Program
 {
-    //static double seedDefault=240;
-    //static void Main(string[] args)
-    //{
-    //    Console.WriteLine("Enter seed!=0, seed=  ");
-    //    double seed = double.Parse(Console.ReadLine());
-    //    getRandom(seed);
-    //}
-
-    //private static void getRandom(double seed)
-    //{
-    //    seed = 36969 * (seed + 65535) + (seed >> 16);
-    //    seedDefault = 18000 
-    //}
-    static void Main()
+    static int value = 0;
+    static int seedDefault = 240;
+    static void Main(string[] args)
     {
-        int a = 1 & 0;
-        Console.WriteLine(a);
+        Console.WriteLine("Enter seed!=0, seed=  ");
+        int seed = int.Parse(Console.ReadLine());
+        Console.WriteLine("Enter max value= ");
+        int max = int.Parse(Console.ReadLine());
+        getRandom(seed, max);
+    }
 
+    private static void getRandom(int seed, int max)
+    {
+        seed = 36969 * (seed + 65535) + (seed >> 16);
+        seedDefault = 18000 * (seed & 65535) + (seed >> 16);
+        value = (seed << 16) + seedDefault;
+        if ((value <= max)&&(value>0))
+        {
+            Console.WriteLine(value);
+        }
+        else
+        {
+            getRandom(seed+1, max);
+        }
+     
     }
 }
